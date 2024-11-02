@@ -1,0 +1,24 @@
+{
+  "name": "hyper-neon-theme",
+  "version": "1.0.0",
+  "description": "neon-inspired color theme for Hyper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KK-a-tech/hyper-neon-theme.git"
+  },
+  "homepage": "https://github.com/KK-a-tech/hyper-neon-theme",
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "hyperterm",
+    "hyperterm-theme",
+    "hyper.app",
+    "neon"
+  ],
+  "author": "Kento.S",
+  "license": "MIT"
+}
