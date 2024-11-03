@@ -1,6 +1,6 @@
 {
   "name": "hyper-neon-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "neon-inspired color theme for Hyper",
   "main": "index.js",
   "scripts": {
